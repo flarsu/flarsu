@@ -24,41 +24,6 @@
 
 - ⚡ Fun fact **I like Dancing or mai kabi bhi shuru ho jata hun :D**
 
-<details>
-
-<summary>A Little More ABout ME!(click to expand)</summary>
-<p align="left">  
-<strong> Curious and visionary Engineering professional doing BE in Computer Engineering from Army Institute of Technology Pune, Research-oriented, enthusiastic for Deep Learning, skilled in Version Control System,Linux,SQL and also well equiped with Data Structure and Algorithm's knowledge. My active participation in Hackathons adds on to my profile.
-</strong></p>  
-</details>
-
-#### Hackathons Won:
-- Smart India Hackathon 2020 (Team Leader) Rank 1
-  - [SIH2020](https://www.sih.gov.in/)
-  - Project (sorry it's a Private Repo) 
-- Pitney Bowes 2019 Rank 1
-  
-#### Tools I Know/Used:
-
-<p align="left">
-  
-  <img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cpp" width="40" height="40"/>
-
-</p>  
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=flarsu&&show_icons=true&theme=radical&line_height=27&v=5"  alt="Darkmaster's GitHub Stats" /> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flarsu&theme=radical&layout=compact" />
-</div>
-
 #### My Projects:
 <p align="center">
 <b>Already Pinned Down for you !</b></br>
