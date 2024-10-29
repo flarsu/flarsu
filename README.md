@@ -10,19 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flarsu" alt="srishav" /> </p>
 
-- 🔭 I’m currently working on **GAN/CV/Audio problems**
-
-- 🌱 I’m currently learning **Docker,PyTorch**
-
-- 👯 I’m looking to collaborate on **Research projects/AI product development related to CV, Audio, NLP**
+- 🌱 I’m currently learning **Kafka, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/flarsu)
 
-- 💬 Ask me about **Anything and Everything**
-
 - 📫 How to reach me **srishav669gmail.com**
 
-- ⚡ Fun fact **I like Dancing or mai kabi bhi shuru ho jata hun :D**
+- ⚡ Fun fact ** 99.999% SLA for availability is a myth**
 
 #### My Projects:
 <p align="center">
