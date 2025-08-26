@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flarsu" alt="srishav" /> </p>
 
-- 🌱 I’m currently learning **Kafka, Kubernetes**
+- 🌱 I’m currently learning **Database Internals, Kafka, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [Where else than Github](https://github.com/flarsu)
 
